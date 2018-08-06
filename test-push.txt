@@ -1,0 +1,2 @@
+﻿git remote add origin  git@github.com:xiaoxiao-chen/Git-xiao.git
+git push -u origin master
